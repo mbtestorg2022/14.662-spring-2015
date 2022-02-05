@@ -9,12 +9,61 @@ Problem Sets
 
 In addition to the instructors, Teaching Assistant, Peter Hull helped create the problem sets. Used with permission.
 
-| PROBLEM SET # | ACCOMPANYING FILES |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset1) |  {{< br >}}{{< br >}} [Problem Set 1 Data and Code (ZIP)]({{< baseurl >}}/resources/ps1_code_and_data) (This file contains: 1 .dta, 1 .ado, and 1 .hlp files.) {{< br >}}{{< br >}}  |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset2) | N/A |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset3) | [MTR (MAT)]({{< baseurl >}}/resources/mtr) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset4) | [Problem Set 4 Data (DTA)]({{< baseurl >}}/resources/pset4) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SET #
+{{< thclose >}}
+{{< thopen >}}
+ACCOMPANYING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset1)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+[Problem Set 1 Data and Code (ZIP)]({{< baseurl >}}/resources/ps1_code_and_data) (This file contains: 1 .dta, 1 .ado, and 1 .hlp files.)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+N/A
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+[MTR (MAT)]({{< baseurl >}}/resources/mtr)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit14_662s15_pset4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Problem Set 4 Data (DTA)]({{< baseurl >}}/resources/pset4)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Research Proposal
 -----------------
