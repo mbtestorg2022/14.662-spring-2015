@@ -34,7 +34,7 @@ Firpo, Sergio, Nicole M. Fortin, and Thomas Lemieux. "Decomposition Methods in E
 
 Firpo, Sergio, Nicole M. Fortin, et al. "[Occupational Tasks and Changes in the Wage Structure](http://www.researchgate.net/publication/228252266_Occupational_Tasks_and_Changes_in_the_Wage_Structure)." IZA Discussion Paper No. 5542, 2011.
 
-Hakanson, Christina, Erik Lindqvist, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Firms and Skills: The Evolution of Worker Sorting." (PDF)](http://www.ifn.se/wfiles/wp/wp1072.pdf) Stockholm School of Economics Working Paper, 2013.
+Hakanson, Christina, Erik Lindqvist, et al. ["Firms and Skills: The Evolution of Worker Sorting." (PDF)](http://www.ifn.se/wfiles/wp/wp1072.pdf) Stockholm School of Economics Working Paper, 2013.
 
 Juhn, Chinhui, Kevin M. Murphy and Brooks Pierce. "[Wage Inequality and the Rise in Returns to Skill](http://dx.doi.org/10.1086/261881)." _Journal of Political Economy_ 101, no. 3 (1993): 410–42.
 
@@ -57,7 +57,7 @@ Autor, David H., Lawrence F. Katz, et al. "[The Polarization of the U.S. Labor M
 
 ———. "[Trends in U.S. Wage Inequality: Revising the Revisionists](http://dx.doi.org/10.1162/rest.90.2.300)." _The Review of Economics and Statistics_ 90, no. 2 (2008): 300–23.
 
-Bakija, Jon, Adam Cole, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Jobs and Income Growth of Top Earners and the Causes of Changing Income Inequality: Evidence from U.S. Tax Return Data." (PDF)](http://web.williams.edu/Economics/bakija/BakijaHeimJobsIncomeGrowthTopEarners.pdf) U.S. Department of the Treasury Working Paper, 2012.
+Bakija, Jon, Adam Cole, et al. ["Jobs and Income Growth of Top Earners and the Causes of Changing Income Inequality: Evidence from U.S. Tax Return Data." (PDF)](http://web.williams.edu/Economics/bakija/BakijaHeimJobsIncomeGrowthTopEarners.pdf) U.S. Department of the Treasury Working Paper, 2012.
 
 Bivens, Josh, Elise Gould, et al. "[Raising America's Pay: Why It's Our Central Economic Policy Challenge](http://www.epi.org/publication/raising-americas-pay/)." Economic Policy Institute Brieng Paper No. 378, 2014.
 
@@ -71,7 +71,7 @@ Ellwood, David. "The Sputtering Labor Force of the Twenty-first Century: Can Soc
 
 Goldin, Claudia, and Lawrence Katz. "[The Origins of Technology-skill Complementarity](http://dx.doi.org/10.1162/003355398555720)." _The Quarterly Journal of Economics_ 113, no. 3 (1998): 693–732.
 
-Gottschalk, Peter, and Robert Moffitt. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Growth of Earnings Instability in the U.S. Labor Market." (PDF - 4.6MB)](https://www.brookings.edu/wp-content/uploads/1994/06/1994b_bpea_gottschalk_moffitt_katz_dickens.pdf) _Brookings Papers on Economic Activity_ 25, no. 2 (1994): 217–72.
+Gottschalk, Peter, and Robert Moffitt. ["The Growth of Earnings Instability in the U.S. Labor Market." (PDF - 4.6MB)](https://www.brookings.edu/wp-content/uploads/1994/06/1994b_bpea_gottschalk_moffitt_katz_dickens.pdf) _Brookings Papers on Economic Activity_ 25, no. 2 (1994): 217–72.
 
 Hounshell, David A. _From the American System to Mass Production, 1800–1932: The Development of Manufacturing Technology in the United States_ _(Studies in Industry and Society)_. The John Hopkins University Press, 1984. ISBN: 9780801829758.
 
@@ -94,7 +94,7 @@ Canonical Model: Main papers
 
 Acemoglu, Daron, David Autor, et al. "[Women, War, and Wages: The Effect of Female Labor Supply on the Wage Structure at Midcentury](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=539002)." _Journal of Political Economy_ 112, no. 3 (2004): 497–551.
 
-Beaudry, Paul, David A. Green, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Great Reversal in the Demand for Skill and Cognitive Tasks." (PDF)](https://www.nber.org/papers/w18901.pdf) University of British Columbia Working Paper, NBER Working Paper No. 18901, 2013.
+Beaudry, Paul, David A. Green, et al. ["The Great Reversal in the Demand for Skill and Cognitive Tasks." (PDF)](https://www.nber.org/papers/w18901.pdf) University of British Columbia Working Paper, NBER Working Paper No. 18901, 2013.
 
 Blau, Francine D., and Lawrence M. Kahn. "[International Differences in Male Wage Inequality: Institutions versus Market Forces](http://www.jstor.org/stable/2138886)." _Journal of Political Economy_ 104, no. 4 (1996): 791–837.
 
@@ -129,7 +129,7 @@ Machin, Stephen, and John Van Reenen. "[Technology and Changes in Skill Structur
 
 Michaels, Guy, Ashwini Natraj, et al. "[Has ICT Polarized Skill Demand? Evidence from Eleven Countries over 25 Years](http://dx.doi.org/10.1162/REST_a_00366)." _The_ _Review of Economics and Statistics_ 96, no. 1 (2014): 60–77.
 
-Nordhaus, William D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Two Centuries of Productivity Growth in Computing." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.1871&rep=rep1&type=pdf) _The Journal of Economic History_ 67, no. 1 (2001): 128–59.
+Nordhaus, William D. ["Two Centuries of Productivity Growth in Computing." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.330.1871&rep=rep1&type=pdf) _The Journal of Economic History_ 67, no. 1 (2001): 128–59.
 
 
 {{< tdclose >}}
@@ -152,7 +152,7 @@ Autor, David H. "[The 'Task Approach' to Labor Markets: An Overview](http://dx.d
 
 Autor, David, and David Dorn. "[The Growth of Low Skill Service Jobs and the Polarization of the U.S. Labor Market](http://dx.doi.org/10.1257/aer.103.5.1553)." _American Economic Review_ 103, no. 5 (2013): 1553–97.
 
-Coelli, Michael, and Jeff Borland. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Job Polarisation and Earnings Inequality in Australia." (PDF)](http://fbe.unimelb.edu.au/__data/assets/pdf_file/0009/1427409/1192CoelliBorland.pdf) University of Melbourne Working Paper, 2015.
+Coelli, Michael, and Jeff Borland. ["Job Polarisation and Earnings Inequality in Australia." (PDF)](http://fbe.unimelb.edu.au/__data/assets/pdf_file/0009/1427409/1192CoelliBorland.pdf) University of Melbourne Working Paper, 2015.
 
 Goos, Maarten, and Alan Manning. "[Lousy and Lovely Jobs: The Rising Polarization of Work in Britain](http://dx.doi.org/10.1162/rest.89.1.118)." _The Review of Economics and Statistics_ 89, no. 1 (2007): 118–33.
 
@@ -173,7 +173,7 @@ The Division of Labor and The Economics of Superstars
 {{< tdopen >}}
 
 
-Bloom, Nicholas, Erik Brynjolfsson, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Management in America." (PDF)](http://www2.census.gov/ces/wp/2013/CES-WP-13-01.pdf) Center for Economic Studies Working Paper No. CES 13–01, 2013.
+Bloom, Nicholas, Erik Brynjolfsson, et al. ["Management in America." (PDF)](http://www2.census.gov/ces/wp/2013/CES-WP-13-01.pdf) Center for Economic Studies Working Paper No. CES 13–01, 2013.
 
 Bloom, Nicholas, Mirko Draca, et al. "[Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT, and Productivity](http://www.nber.org/papers/w16717)." NBER Working Paper No. 16717, 2011.
 
@@ -247,7 +247,7 @@ Labor Market Institutions and Wage Structure
 {{< tdopen >}}
 
 
-Autor, David H., Alan Manning, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Contribution of the Minimum Wage to U.S. Wage Inequality over Three Decades: A Reassessment." (PDF - 2.3MB)](http://economics.mit.edu/files/3279) MIT Working Paper, 2015.
+Autor, David H., Alan Manning, et al. ["The Contribution of the Minimum Wage to U.S. Wage Inequality over Three Decades: A Reassessment." (PDF - 2.3MB)](http://economics.mit.edu/files/3279) MIT Working Paper, 2015.
 
 DiNardo, John, and David S. Lee. "[Economic Impacts of New Unionization on Private Sector Employers: 1984–2001](http://dx.doi.org/10.1162/0033553042476189)." _The_ _Quarterly Journal of Economics_ 119, no. 4 (2004): 1383–441.
 
@@ -259,7 +259,7 @@ Greenwood, Jeremy, and D. Weiss. "[Mining Surplus: Modeling James A. Schmitz's L
 
 Kahn, Lawrence. "[Wage Inequality, Collective Bargaining, and Relative Employment from 1985 to 1994: Evidence from 15 OECD Countries](http://dx.doi.org/10.1162/003465300559055)." _The_ _Review of Economics and Statistics_ 82, no. 4 (2000): 564–79.
 
-Krueger, Alan B., and Alexandre Mas. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Strikes, Scabs, and Tread Separations: Labor Strife and the Production of Defective Bridgestone / Firestone Tires." (PDF)](https://www.princeton.edu/~amas/papers/km04.pdf) _Journal of Political Economy_ 112, no. 2 (2004): 253–89.
+Krueger, Alan B., and Alexandre Mas. ["Strikes, Scabs, and Tread Separations: Labor Strife and the Production of Defective Bridgestone / Firestone Tires." (PDF)](https://www.princeton.edu/~amas/papers/km04.pdf) _Journal of Political Economy_ 112, no. 2 (2004): 253–89.
 
 Lee, David. "[Wage Inequality in the U.S. During the 1980's: Rising Dispersion or Falling Minimum Wage](http://dx.doi.org/10.1162/003355399556197)." _The_ _Quarterly Journal of Economics_ 114, no. 4 (1999): 941–1024.
 
@@ -278,13 +278,13 @@ The Emerging Gender Gap in Education and Labor Markets
 {{< tdopen >}}
 
 
-Autor, David, and Melanie Wasserman. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Wayward Sons: The Emerging Gender Gap in Education and Labor Markets." (PDF - 2MB)](http://economics.mit.edu/files/8754) Third Way, 2013.
+Autor, David, and Melanie Wasserman. ["Wayward Sons: The Emerging Gender Gap in Education and Labor Markets." (PDF - 2MB)](http://economics.mit.edu/files/8754) Third Way, 2013.
 
 Buchmann, Claudia, and Thomas A. DiPrete. "[The Growing Female Advantage in College Completion: The Role of Family Background and Academic Achievement](http://www.jstor.org/stable/30039008)." _American Sociological Review_ 71 (2006): 515–41.
 
 Charles, Kerwin Kofi, and Ming Ching Luoh. "[Male Incarceration, the Marriage Market and Female Outcomes](http://dx.doi.org/10.1162/REST_a_00022)." _The_ Review of Economics and Statistics 92, no. 3 (2010): 614–27.
 
-Clampet-Lundquist, Susan, Jeffrey R Kling, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Moving Teenagers out of High-risk Neighborhoods: How Girls Fare Better than Boys." (PDF)](http://users.nber.org/~kling/mto_ajs2.pdf) _American Journal of Sociology_ 116, no. 4 (2011): 1154–89.
+Clampet-Lundquist, Susan, Jeffrey R Kling, et al. ["Moving Teenagers out of High-risk Neighborhoods: How Girls Fare Better than Boys." (PDF)](http://users.nber.org/~kling/mto_ajs2.pdf) _American Journal of Sociology_ 116, no. 4 (2011): 1154–89.
 
 Corak, Miles, Lori Curtis, et al. "[Economic Mobility, Family Background, and the Well-being of Children in the United States and Canada](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1570432)." IZA Discussion Paper No. 4814, 2010.
 
@@ -300,7 +300,7 @@ Murray, Charles. _Coming Apart: The State of White America, 1960–2010_. Crown 
 
 Phillips, Meredith. "Parenting, Time Use, and Disparities in Academic Outcomes." In _Whither Opportunity?: Rising Inequality, Schools, and Children's Life Chances_. Edited by Greg J. Duncan and Richard J. Murnane. Russell Sage Foundation, 2011. ISBN: 9780871543721.
 
-Prevoo, Tyas, and Bas ter Weel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Effect of Family Disruption on Children's Personality Development: Evidence from British Longitudinal Data." (PDF - 1.2MB)](http://ftp.iza.org/dp8712.pdf) IZA Discussion Paper No. 8217, 2014.
+Prevoo, Tyas, and Bas ter Weel. ["The Effect of Family Disruption on Children's Personality Development: Evidence from British Longitudinal Data." (PDF - 1.2MB)](http://ftp.iza.org/dp8712.pdf) IZA Discussion Paper No. 8217, 2014.
 
 Reardon, Sean F. "The Widening Academic Achievement Gap Between the Rich and the Poor: New Evidence and Possible Explanations." In _Whither Opportunity?: Rising Inequality, Schools, and Children's Life Chances_. Edited by Greg J. Duncan and Richard J. Murnane. Russell Sage Foundation, 2011. ISBN: 9780871543721.
 
@@ -413,7 +413,7 @@ Applying the Roy Model and Equalizing Wage Differentials: The Scientific Workfor
 {{< tdopen >}}
 
 
-Freeman, Richard. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Supply and Salary Adjustments to the Changing Science Manpower Market: Physics, 1948–1975." (PDF)](https://ideas.repec.org/a/aea/aecrev/v65y1975i1p27-39.html) _American Economic Review_ 65, no. 1 (1975): 27–39.
+Freeman, Richard. ["Supply and Salary Adjustments to the Changing Science Manpower Market: Physics, 1948–1975." (PDF)](https://ideas.repec.org/a/aea/aecrev/v65y1975i1p27-39.html) _American Economic Review_ 65, no. 1 (1975): 27–39.
 
 ———. "[A Cobweb Model of the Supply and Starting Salary of New Engineers](http://dx.doi.org/10.2307/2522143)." _Industrial Labor Relations Review_ 29, no. 2 (1976): 236–48.
 

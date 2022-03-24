@@ -66,7 +66,7 @@ Autor, David H. "[Skills, Education, and the Rise of Earnings Inequality among t
 
 Beaudry, Paul, David A. Green, et al. "[The Declining Fortunes of the Young Since 2000](http://dx.doi.org/10.1257/aer.104.5.381)." _American Economic Review_ 104, no. 5 (2014): 381–86.
 
-Boserup, Simon Halphen, Wojciech Kopczuk, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Stability and Persistence of Intergenerational Wealth Formation: Evidence from Danish Wealth Records of Three Generations." (PDF - 1.4MB)](http://www.econ.ku.dk/ctk/Papers/WealthAcrossGen.pdf) Columbia University Working Paper, 2014.
+Boserup, Simon Halphen, Wojciech Kopczuk, et al. ["Stability and Persistence of Intergenerational Wealth Formation: Evidence from Danish Wealth Records of Three Generations." (PDF - 1.4MB)](http://www.econ.ku.dk/ctk/Papers/WealthAcrossGen.pdf) Columbia University Working Paper, 2014.
 
 Chetty, Raj, Nathaniel Hendren, et al. "[Is the United States Still a Land of Opportunity? Recent Trends in Intergenerational Mobility](http://dx.doi.org/10.1257/aer.104.5.141)."  _American Economic Review_ 104, no. 5 (2014): 141–47.
 
@@ -98,7 +98,7 @@ Davis, Steven J., and Till von Wachter. "[Recessions and the Costs of Job Loss](
 
 Jacobson, Louis. S., Robert J. LaLonde, et al. "[Earnings Losses of Displaced Workers Revisited](http://dx.doi.org/10.1257/aer.100.1.572)." _American Economic Review_ 83, no. 4 (1993): 685–709.
 
-Jarosch, Gregor. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Searching for Job Security and the Consequences of Job Loss." (PDF)](http://economics.mit.edu/files/10369) University of Chicago Working Paper, 2014.
+Jarosch, Gregor. ["Searching for Job Security and the Consequences of Job Loss." (PDF)](http://economics.mit.edu/files/10369) University of Chicago Working Paper, 2014.
 
 Kroft, Kory, Fabian Lange, et al. "[Duration Dependence and Labor Market Conditions: Evidence from a Field Experiment](http://dx.doi.org/10.1093/qje/qjt015)." _The_ _Quarterly Journal of Economics_ 128, no. 3 (2013): 1123–67.
 
@@ -108,7 +108,7 @@ Oreopoulos, Philip, Till Von Wachter, et al. "[The Short-term and Long-term Care
 
 Sullivan, Daniel, and Till von Wachter. "[Job Displacement and Mortality: An Analysis Using Administrative Data](http://dx.doi.org/10.1162/qjec.2009.124.3.1265)." _The_ _Quarterly Journal of Economics_ 124, no. 3 (2009): 1265–306.
 
-Schmieder, Johannes F., Stefan Bender, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Causal Effect of Unemployment Duration on Wages: Evidence from Unemployment Insurance Extensions." (PDF)](http://www.econ.ucla.edu/tvwachter/papers/SchmiederVonwachterBender.pdf) UCLA Working Paper, 2014.
+Schmieder, Johannes F., Stefan Bender, et al. ["The Causal Effect of Unemployment Duration on Wages: Evidence from Unemployment Insurance Extensions." (PDF)](http://www.econ.ucla.edu/tvwachter/papers/SchmiederVonwachterBender.pdf) UCLA Working Paper, 2014.
 
 
 {{< tdclose >}}
@@ -208,7 +208,7 @@ Gathmann, Christina, and Uta Schonberg. "[How General is Human Capital? A Task-b
 
 Goos, Maarten, Alan Manning, et al. "[Explaining Job Polarization: Routine-biased Technological Change and Offshoring](http://dx.doi.org/10.1257/aer.104.8.2509)." _American Economic Review_ 104, no. 8 (2014): 2509–26.
 
-Hsieh, Chang-Tai, Erik Hurst, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Allocation of Talent and U.S. Economic Growth." (PDF)](http://dx.doi.org/10.3386/w18693) Stanford University Working Paper, NBER Wroking Paper No. 18693, 2013.
+Hsieh, Chang-Tai, Erik Hurst, et al. ["The Allocation of Talent and U.S. Economic Growth." (PDF)](http://dx.doi.org/10.3386/w18693) Stanford University Working Paper, NBER Wroking Paper No. 18693, 2013.
 
 
 {{< tdclose >}}
@@ -614,7 +614,7 @@ Intergenerational Mobility-theory and Measurement
 
 Haider, Steven, and Gary Solon. "[Life-cycle Variation in the Association Between Current and Lifetime Earnings](http://dx.doi.org/10.1257/aer.96.4.1308)."  _American Economic Review_ 96, no. 4 (2006): 1308–20.
 
-Solon, Gary. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Intergenerational Income Mobility in the United States." (PDF - 1.2MB)](http://www.uh.edu/~adkugler/Solon.pdf) _American Economic Review_ 82, no. 3 (1992): 393–408.
+Solon, Gary. ["Intergenerational Income Mobility in the United States." (PDF - 1.2MB)](http://www.uh.edu/~adkugler/Solon.pdf) _American Economic Review_ 82, no. 3 (1992): 393–408.
 
 
 {{< tdclose >}}
