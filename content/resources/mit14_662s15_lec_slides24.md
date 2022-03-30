@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding lecture
   24.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-662-labor-economics-ii-spring-2015/782ad25c4050e4e769d1347273b99431_MIT14_662S15_lec_slides24.pdf
 file_type: application/pdf
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: '14.662 S15 Intergenerational Mobility: Theory and Measurement Lecture Slides'
 uid: 782ad25c-4050-e4e7-69d1-347273b99431

@@ -4,6 +4,7 @@ description: This is a resource file that contains information regarding lecture
   23.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-662-labor-economics-ii-spring-2015/8cdd64204acad720ba8063d20dc56706_MIT14_662S15_lec_slides23.pdf
 file_type: application/pdf
+parent_uid: d4da7f25-1831-78f8-ed35-a408f574717c
 resourcetype: Document
 title: 14.662 S15 Management Practices Lecture Slides
 uid: 8cdd6420-4aca-d720-ba80-63d20dc56706

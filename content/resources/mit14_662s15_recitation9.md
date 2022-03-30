@@ -3,6 +3,7 @@ content_type: resource
 description: This is a file that contains information regarding recitation 9.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/14-662-labor-economics-ii-spring-2015/b398544129e3044b49946e79a4659c98_MIT14_662S15_Recitation9.pdf
 file_type: application/pdf
+parent_uid: 612222c0-168b-f1d0-a4d2-9dc6a7c517d5
 resourcetype: Document
 title: '14.662 Spring 2015 Recitation Notes: Tweaking Becker (1957): Models of Taste-Based
   Discrimination'
